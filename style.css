@@ -1,0 +1,24 @@
+.daw{
+    background-image: url("https://img.freepik.com/free-photo/flat-lay-desk-concept-with-copy-space_23-2148459782.jpg?size=626&ext=jpg&ga=GA1.1.7968746.1696854204&semt=ais");
+    background-position: cover;
+    background-size: cover;
+    background-repeat:  no-repeat;
+    width: 100%;
+    height: 700px;
+    color: aquamarine;
+    
+}
+
+input{
+    margin-top: 500px;
+    padding: 8px;
+    border: 5px solid red;
+}
+button{
+    padding: 8px;
+    border: 5px solid red;
+    
+}
+body{
+    background-color: brown;
+}
